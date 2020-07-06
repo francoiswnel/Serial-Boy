@@ -2,7 +2,9 @@
 
 Serial Boy is a Game Boy Link Cable to Arduino Uno adapter. The main purpose being to connect a Game Boy Pocket Camera to an emulated Game Boy Printer.
 
-![Serial Boy]()
+![Serial Boy](https://raw.githubusercontent.com/francoiswnel/serial-boy/master/Images/image1.jpg)
+
+![Serial Boy](https://raw.githubusercontent.com/francoiswnel/serial-boy/master/Images/image2.jpg)
 
 # Get the PCB
 
